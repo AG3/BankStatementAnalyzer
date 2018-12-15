@@ -1,0 +1,37 @@
+[{
+	"name": "drink",
+	"keys": ["coffee", "temple davis", "the old tea house"]
+}, {
+	"name": "food",
+	"keys": ["uber *eats", "chengdu taste", "szechuan spicy", "trader joe's"]
+}, {
+	"name": "Amazon",
+	"keys": ["amazon.com","amzn"]
+}, {
+	"name": "transportation",
+	"keys": ["lyft *ride", "uber *trip", "jumpbikeshare"]
+}, {
+	"name": "rent",
+	"keys": ["the uweb pmts"]
+},{
+	"name": "Venmo",
+	"keys": ["venmopayment"]
+},{
+	"name": "Google Pay",
+	"keys": ["g.co helppay","g.co/helppay"]
+},{
+	"name": "Bike",
+	"keys": ["city grounds","freewheeler bicycle", "giant bicycle"]
+},{
+	"name": "Ikea",
+	"keys": ["ikea.com"]
+},{
+	"name": "Tuition",
+	"keys": ["university of ca"]
+},{
+	"name": "Groceries",
+	"keys": ["safeway", "walgreens", "ucd stores"]
+},{
+	"name": "PG&E",
+	"keys": ["pgandeweb"]
+}]
